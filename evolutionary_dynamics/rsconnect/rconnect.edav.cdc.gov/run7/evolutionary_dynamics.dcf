@@ -1,0 +1,13 @@
+name: evolutionary_dynamics
+title: evolutionary_dynamics
+username: run7
+account: run7
+server: rconnect.edav.cdc.gov
+hostUrl: https://rconnect.edav.cdc.gov/__api__
+appId: 234
+bundleId: 1240
+url: https://rconnect.edav.cdc.gov/content/234/
+when: 1635258570.68829
+lastSyncTime: 1635258570.68829
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,13 @@
+name: sarscov2dynamics
+title: sarscov2dynamics
+username: run7
+account: run7
+server: rconnect.edav.cdc.gov
+hostUrl: https://rconnect.edav.cdc.gov/__api__
+appId: 232
+bundleId: 1241
+url: https://rconnect.edav.cdc.gov/content/232/
+when: 1635260416.71486
+lastSyncTime: 1635260416.71486
+asMultiple: FALSE
+asStatic: FALSE

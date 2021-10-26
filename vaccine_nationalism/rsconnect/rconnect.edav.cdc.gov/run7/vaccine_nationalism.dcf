@@ -1,0 +1,13 @@
+name: vaccine_nationalism
+title: vaccine_nationalism
+username: run7
+account: run7
+server: rconnect.edav.cdc.gov
+hostUrl: https://rconnect.edav.cdc.gov/__api__
+appId: 233
+bundleId: 1238
+url: https://rconnect.edav.cdc.gov/content/233/
+when: 1635258421.85046
+lastSyncTime: 1635258421.85046
+asMultiple: FALSE
+asStatic: FALSE
